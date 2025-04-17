@@ -50,3 +50,31 @@ p{
   
     
 }
+#zorojuro{
+    width: 500px;
+    height: 200px;
+    background-color: cornflowerblue;
+    color: rgb(169, 243, 169);
+   background-image:  url("../image/bg01css.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#zorojuro h2{
+    text-align: center;
+    padding-top: 80px;
+}
+#luffytaro{
+    width: 500px;
+    height: 200px;
+    background-color: cornflowerblue;
+    color: rgb(169, 243, 169);
+   background-image:  url("../image/Blue\ Abstract\ pattern01.jpg");
+background-repeat: no-repeat;
+   
+   
+
+}
+#luffytaro h2{
+    text-align: center;
+    padding-top: 80px; 
+}
